@@ -1,0 +1,12 @@
+node_modules/
+venv/
+.venv/
+__pycache__/
+*.pyc
+.DS_Store
+.ipynb_checkpoints/
+.gemini/
+.agents/
+.agent/
+_agents/
+_agent/
